@@ -13,36 +13,32 @@ This repository contains lab work for **LAB 3** of the Computer Fundamentals & C
 ```text
 CSE103/
 ├── README.md          # Project documentation (this file)
-├── MARKDOWN_GUIDE.md  # Markdown syntax reference
-├── CHANGELOG.md       # Version history
-├── main.py            # Primary Python script
-└── .gitignore         # Files excluded from Git tracking
+└── MARKDOWN_GUIDE.md  # Markdown syntax reference
 ```
 
 ## Skills Demonstrated
 
 | Skill | Status |
 |---|---|
-| Git initialisation | Completed |
-| Meaningful commits | Completed |
-| Remote push / pull | Completed |
 | Markdown documentation | Completed |
-| API interaction | Completed |
+| GitHub documentation commits | Completed |
+| Local remote push / pull practice | Pending in the local checkout |
+| API interaction | Not documented in this repository yet |
 
 ## How to Run
+
+This repository currently contains documentation only; no runnable Python script is included yet.
+
+To download it:
 
 ```bash
 git clone https://github.com/satyammalik2005/CSE103.git
 cd CSE103
-python3 main.py
 ```
 
-## Key Learning Outcomes
+## Lab Learning Outcomes
 
-- Configured Git identity and initialised a local repository.
-- Created atomic commits with Conventional Commit messages.
-- Practised pushing and pulling changes with a GitHub remote.
-- Authored structured Markdown documentation.
+The lab exercise is designed to practise Git identity configuration, meaningful commits, pushing and pulling with a GitHub remote, structured Markdown documentation, and API interaction.
 
 ## References
 
