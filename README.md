@@ -45,3 +45,7 @@ The lab exercise is designed to practise Git identity configuration, meaningful 
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 - [GitHub Skills](https://skills.github.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
+
+## Remote Update Practice
+
+This line was added on GitHub to simulate a remote README edit for the CSE103 pull exercise.
